@@ -1,4 +1,4 @@
-# Xray快速部署到Heroku/Zeet
+# Xray快速部署到Heroku/Zeet  失效
 
 点击下面按钮部署,好用的话记得点个Star!
 

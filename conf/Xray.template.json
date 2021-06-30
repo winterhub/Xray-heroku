@@ -2,7 +2,7 @@
 # 在heroku上fast_open必须为false
 {
     "log": {
-        "loglevel": "warning"
+        "loglevel": "error"
     },
     "routing": {
         "domainStrategy": "AsIs",
